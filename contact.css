@@ -377,8 +377,14 @@
     font-size: 1.5rem;
   }
 
+  .u-section-2 .u-table-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-2 .u-text-2 {
-    margin-top: 57px;
+    margin-top: 20px;
   }
 
   .u-section-2 .u-social-icons-1 {
