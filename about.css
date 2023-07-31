@@ -1,0 +1,667 @@
+ .u-section-1 {
+  background-image: url("images/pexels-monstera-9479834.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 350px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 289px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 221px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 166px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 105px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 510px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 30px 0 0;
+}
+
+.u-section-2 .u-text-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0 249px 0 0;
+}
+
+.u-section-2 .u-line-1 {
+  width: 100px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 20px 440px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 255px;
+  height: 303px;
+  margin: 19px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 440px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 330px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 149px;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-right: 340px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 363px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 39px;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-right: 230px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 590px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 380px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 449px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 239px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1000px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 67px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 339px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 25px 3px 25px 0;
+}
+
+.u-section-3 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0 883px 0 0;
+}
+
+.u-section-3 .u-line-1 {
+  width: 100px;
+  height: 0;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
+  margin: 20px 1040px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 760px 0 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 594px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 147px;
+  height: 44px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.875rem;
+  margin: 20px 763px 0 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 302px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-4 {
+  min-height: 631px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px 0 0;
+}
+
+.u-section-3 .u-layout-cell-5 {
+  min-height: 410px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px 20px;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.875rem;
+  margin: 0;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 47px 189px 0 0;
+}
+
+.u-section-3 .u-layout-cell-6 {
+  min-height: 523px;
+}
+
+.u-section-3 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 874px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 266px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 801px;
+  }
+
+  .u-section-3 .u-line-1 {
+    margin-right: 195px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 678px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 465px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 681px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 254px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 675px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 122px;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 431px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1150px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 239px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 648px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-right: 30px;
+    padding-left: 0;
+  }
+
+  .u-section-3 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-6 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1592px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 359px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 279px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-4 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1101px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 601px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 478px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 412px;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-right: 338px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 226px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 176px;
+  }
+
+  .u-section-3 .u-text-4 {
+    font-size: 1.875rem;
+  }
+} .u-section-4 {
+  min-height: 318px;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 655px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 499px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px 30px 0;
+}
+
+.u-section-4 .u-text-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0 9px 0 0;
+}
+
+.u-section-4 .u-line-1 {
+  width: 100px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  height: 3px;
+  margin: 20px 200px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 30px auto 0 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 499px;
+  background-image: url("images/action-african-american-african-descent-american-asian-black-1447641-pxhere.com.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 89px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 411px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 411px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 66px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-container-layout-1 {
+    padding-right: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 473px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 298px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 529px;
+}
+
+.u-section-5 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 257px;
+  margin: 70px auto 0;
+}
+
+.u-section-5 .u-line-1 {
+  width: 100px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
+  margin: 20px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 20px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-line-1 {
+    height: 0;
+  }
+} .u-section-6 {
+  background-image: url("images/action-african-american-african-descent-american-black-brainstorming-1451901-pxhere.com.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 400px;
+} .u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 399px;
+}
+
+.u-section-7 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 257px;
+  margin: 70px auto 0;
+}
+
+.u-section-7 .u-line-1 {
+  width: 100px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
+  margin: 20px auto 0;
+}
+
+.u-section-7 .u-text-2 {
+  margin: 20px auto 60px;
+} .u-section-8 {
+  background-image: none;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 123px;
+}
+
+.u-section-8 .u-text-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 29px 0 57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 218px;
+  }
+
+  .u-section-8 .u-text-1 {
+    width: auto;
+    margin-bottom: 58px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-text-1 {
+    margin-top: 83px;
+  }
+}
