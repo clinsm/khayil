@@ -188,8 +188,22 @@ box-shadow: 0px 2px 8px 0px rgba(128,128,128,1) !important
                         <input type="email" placeholder="Enter a valid email address" id="email-2ee9" name="email" class="u-border-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-grey-5 u-input u-input-rectangle u-text-custom-color-2 u-input-4" required="">
                       </div>
                       <div class="u-form-group u-label-top u-form-group-5">
-                        <label for="text-e4c2" class="u-label u-text-custom-color-2 u-label-5">Forms, CV, ID, Certificates,&nbsp;Other&nbsp;docs</label>
-                        <input type="text" id="text-e4c2" name="text-2" class="u-border-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-grey-5 u-input u-input-rectangle u-text-custom-color-2 u-input-5" placeholder="Attachments/Documents">
+                        <style media="screen">
+                        input[type="file"] {
+                            display: none;
+                          }
+                          .custom-file-upload {
+                            border: 1px solid #ccc;
+                            display: inline-block;
+                            padding: 6px 12px;
+                            cursor: pointer;
+                          }
+
+                        </style>
+                        <label  class="u-label u-text-custom-color-2 u-label-5">Forms, CV, ID, Certificates,&nbsp;Other&nbsp;docs</label>
+
+                        <label for="text-e4c2" name="text-2" class="u-border-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-grey-5 u-input u-input-rectangle u-text-custom-color-2 u-input-5" placeholder=""> <span style="color: #7981AB;">Attachments/Documents</span> </label>
+                        <input type="file" id="text-e4c2" name="text-2" class="u-border-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-grey-5 u-input u-input-rectangle u-text-custom-color-2 u-input-5" placeholder="Attachments/Documents">
                       </div>
                       <div class="u-form-group u-form-message u-label-top">
                         <label for="message-2ee9" class="u-label u-text-custom-color-2 u-label-6">Message</label>

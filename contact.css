@@ -291,6 +291,9 @@
     margin-bottom: 0;
     margin-right: 340px;
   }
+  .u-section-2 .u-form-group-3 {
+    margin-top: 60px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -333,6 +336,9 @@
   .u-section-2 .u-form-group-2 {
     margin-right: 230px;
   }
+  .u-input-2{
+    width: 360px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -350,7 +356,6 @@
   }
 
   .u-section-2 .u-table-1 {
-    height: 188px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -364,6 +369,9 @@
     height: 35px;
     width: 254px;
     margin-right: 266px;
+  }
+  .u-input-2{
+    width: 540px;
   }
 }
 
@@ -398,6 +406,9 @@
 
   .u-section-2 .u-line-2 {
     margin-right: 240px;
+  }
+  .u-input-2{
+    width: 340px;
   }
 } .u-section-3 {
   min-height: 500px;
