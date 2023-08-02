@@ -71,6 +71,7 @@
 
 .u-section-2 .u-text-2 {
   margin: 20px 0 0;
+  text-align: justify;
 }
 
 .u-section-2 .u-image-1 {
@@ -143,8 +144,6 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-container-layout-1 {
-    padding-left: 50px;
-    padding-right: 50px;
   }
 
   .u-section-2 .u-image-1 {
